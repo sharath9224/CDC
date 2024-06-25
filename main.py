@@ -54,7 +54,7 @@ if __name__ == "__main__":
         host="localhost",
         database="sharath",
         user="postgres",
-        password="Sharath@9224",
+        password="xxxxxxx@9224",
         port=5433
     )
 
